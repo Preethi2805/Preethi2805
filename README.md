@@ -1,16 +1,24 @@
-## Hi there 👋
+Here's a professional and engaging README section for your GitHub profile:  
 
-<!--
-**Preethi2805/Preethi2805** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+# 👋 Hi, I'm [Your Name]  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 **Master’s Student in Data Science & AI | University of Waterloo**  
+📊 **Aspiring Data Scientist**  
+
+---
+
+## 🔥 About Me  
+I'm a data scientist with a strong foundation in **machine learning, quantitative finance, and artificial intelligence**. Currently pursuing my **Master’s in Data Science & AI at the University of Waterloo**, I have a background in **Computer Science & Engineering**.  
+
+📌 **Technical Skills**  
+- 🧠 **Machine Learning & Deep Learning** – TensorFlow, PyTorch, Scikit-Learn  
+- 📈 **Data Science & Analytics** – Pandas, NumPy, Matplotlib, Seaborn  
+- 🔍 **Natural Language Processing (NLP)** – Sentiment analysis, LSTMs, Transformers  
+- 🖥️ **Programming** – Python, SQL, R  
+- 🔢 **Mathematical Modeling** – Probability, Statistics, Linear Algebra  
+
+## 💡 Let's Connect!  
+🔗 **LinkedIn:** [www.linkedin.com/in/praghuraman](#)  
+📧 **Email:** [praghura@uwaterloo.ca](#)
