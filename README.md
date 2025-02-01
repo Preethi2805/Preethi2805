@@ -2,7 +2,7 @@ Here's a professional and engaging README section for your GitHub profile:
 
 ---
 
-# 👋 Hi, I'm [Your Name]  
+# 👋 Hi, I'm [Preethi Raghuraman]  
 
 🎓 **Master’s Student in Data Science & AI | University of Waterloo**  
 📊 **Aspiring Data Scientist**  
