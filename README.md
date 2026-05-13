@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Preethi Raghuraman  
 
 🎓 **Master’s Student in Data Science & AI | University of Waterloo**  
-📊 **Aspiring Data Scientist**  
+📊 **Data Scientist**  
 
 ---
 
